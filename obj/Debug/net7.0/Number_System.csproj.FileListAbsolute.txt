@@ -1,0 +1,15 @@
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.csproj.AssemblyReference.cache
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.AssemblyInfoInputs.cache
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.AssemblyInfo.cs
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.csproj.CoreCompileInputs.cache
+D:\project\temp1\temp1\bin\Debug\net7.0\Number_System.exe
+D:\project\temp1\temp1\bin\Debug\net7.0\Number_System.deps.json
+D:\project\temp1\temp1\bin\Debug\net7.0\Number_System.runtimeconfig.json
+D:\project\temp1\temp1\bin\Debug\net7.0\Number_System.dll
+D:\project\temp1\temp1\bin\Debug\net7.0\Number_System.pdb
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.dll
+D:\project\temp1\temp1\obj\Debug\net7.0\refint\Number_System.dll
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.pdb
+D:\project\temp1\temp1\obj\Debug\net7.0\Number_System.genruntimeconfig.cache
+D:\project\temp1\temp1\obj\Debug\net7.0\ref\Number_System.dll
